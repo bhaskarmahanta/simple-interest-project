@@ -10,3 +10,4 @@ It is created as part of a GitHub and Git CLI assignment.
 - README.md
 - CODE_OF_CONDUCT.md
 - CONTRIBUTING.md
+This change fixes a typo in the README file.
